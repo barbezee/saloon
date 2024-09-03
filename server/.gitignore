@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Log files
+logs/
+*.log
+
+# Production build output
+build/
+dist/
+
+# Database files
+*.sqlite
+*.sqlite3
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+
